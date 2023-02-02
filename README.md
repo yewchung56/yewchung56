@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yewchung56
-- 👀 I’m interested in ... react native
-- 🌱 I’m currently learning ... front end!
+- 👀 I’m interested in ... android!
+- 🌱 I’m currently learning ... kotlin!
 - 📫 How to reach me ... @oneg__9
 
 <!---
