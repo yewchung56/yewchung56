@@ -1,5 +1,7 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+<!---
 ![yewchung56's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewchung56&show_icons=true&theme=radical)
+--->
 
 - 👋 Hi, I’m @oneg__9
 - 👀 I’m interested in ... android!
