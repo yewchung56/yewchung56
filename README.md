@@ -3,9 +3,9 @@
 ![yewchung56's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewchung56&show_icons=true&theme=radical)
 --->
 
-- 👋 Hi, I’m @oneg__9
-- 👀 I’m interested in ... android!
-- 🌱 I’m currently learning ... kotlin!
+- 👋 Hi, 
+- 👀 I’m interested in ... data engineering!
+- 🌱
 - 📫 How to reach me ... @oneg__9
 
 <!---
